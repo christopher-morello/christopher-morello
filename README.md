@@ -25,6 +25,9 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
 - Tableau
   - [Cyclistic 2024](https://public.tableau.com/app/profile/christopher.morello/viz/Cyclistic2024_17557591780850/Dashboard1)
  
+- Blog
+  - [Medium](https://medium.com/@christophermorello)
+ 
 ### Certificati
 ---
 - [Google Data Analytics Professional](https://www.credly.com/badges/a5371234-0d04-4e76-8c20-3ad9ee975614)
