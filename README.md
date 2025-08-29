@@ -3,7 +3,7 @@
 
 ### Su di me
 ---
-Ciao, sono Christopher! Ho un background tecnico nella metalmeccanica e attualmente sto trasformando la mia passione per la matematica e l'analisi in una carriera nella data science. La mia esperienza nel settore tecnico-industriale mi ha dato una solida base per scoprire insights significativi dai dati, e sono entusiasta di applicare le mie capacità analitiche come specialista entry-level.
+Ciao, sono Christopher! Ho un background tecnico nella metalmeccanica e attualmente sto trasformando la mia passione per la matematica e l'analisi in una carriera nella data science. La mia esperienza nel settore tecnico-industriale mi ha dato una solida base per scoprire insights significativi dai dati, e sarai entusiasta di applicare le mie capacità analitiche come specialista entry-level.
 
 Sono convinto che ogni dataset contenga una storia da svelare. Attraverso l'esplorazione dei dati e un approccio metodico, il mio obiettivo è trasformare i numeri in insights che permettano di prendere decisioni informate e creare valore concreto.
 
