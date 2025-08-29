@@ -22,7 +22,7 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
   - [Analisi performance contenuti Instagram](https://github.com/christopher-morello/instagram-engagement-analysis.git)
   - [Analisi servizio di Bike Sharing Cyclistic](https://github.com/christopher-morello/analisi-sharing-cyclistic.git)
   - [Analisi aziende Unicorno](https://github.com/christopher-morello/analisi_aziende_unicorno.git)
-
+  - [Analisi dei fulmini negli U.S.A.](https://github.com/christopher-morello/analisi-tempeste-USA.git)
 - Tableau
   - [Cyclistic 2024](https://public.tableau.com/app/profile/christopher.morello/viz/Cyclistic2024_17557591780850/Dashboard1)
  
