@@ -25,6 +25,7 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
   - [Analisi dei fulmini negli U.S.A.](https://github.com/christopher-morello/analisi-tempeste-USA.git)
 - Tableau
   - [Cyclistic 2024](https://public.tableau.com/app/profile/christopher.morello/viz/Cyclistic2024_17557591780850/Dashboard1)
+  - [Aziende Unicorno](https://public.tableau.com/views/AziendeUnicorno/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 - Blog
   - [Medium](https://medium.com/@christophermorello)
