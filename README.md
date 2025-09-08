@@ -37,18 +37,23 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
   - [Foundations of Data Science](https://coursera.org/share/a026a7b4eaadc77a21ed71423530a71e);
   - [Data Science with Python](https://coursera.org/share/6a23ae557e7b8c50cf8079d615663183);
   - [EDA with Python](https://coursera.org/share/f14ea7f68e2d8333019e1090f19a0cdb);
+  - [Statistics with Python](https://coursera.org/share/e63748a1b3b88925eb5da352f42e64e9);
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/OJD8BP8GZ4QA?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Specializzazione Google Sheets](https://www.coursera.org/account/accomplishments/verify/T51W8MYCXDUG?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/6RCOMKRY5PBV?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ### Competenze acquisite
 
-| Gestione e Manipolazione Dati |	Analisi e Statistica	| Visualizzazione e Comunicazione	| Linguaggi e Strumenti	| Fondamenti e Metodologie |
-|----|----|----|---|---|
-| Pulizia dei dati	|Statistica descrittiva	|Visualizzazione dei dati|	Python	|Data Driven|
-|Data aggregation	|Analisi Statistica	|Data Storytelling	|SQL	|Etica dei dati|
-|Pivot Table	|Test di ipotesi	|Reportistica	|Fogli di calcolo (Excel/Google Sheets)|	Problem Solving|
-|Sampling	|Calcolo delle probabilità|	Dashboarding	|Power BI/Tableau	|Pensiero critico|
+| Gestione e Manipolazione Dati | Analisi e Statistica | Visualizzazione e Comunicazione | Linguaggi e Strumenti | Fondamenti e Metodologie |
+|---|---|---|---|---|
+| Pulizia dei dati | Statistica descrittiva | Visualizzazione dei dati | Python | Data Driven |
+| Data aggregation | Analisi Statistica | Data Storytelling | SQL | Etica dei dati |
+| Pivot Table | Test di ipotesi | Reportistica | Fogli di calcolo (Excel/Google Sheets) | Problem Solving |
+| Sampling | Calcolo delle probabilità | Dashboarding | Power BI/Tableau | Pensiero critico |
+| | Distribuzione di probabilità | | | |
+| | Inferenza Statistica | | | |
+| | Analisi Statistica | | | |
+| | A/B Testing | | | |
 
 
 ### Contatti
