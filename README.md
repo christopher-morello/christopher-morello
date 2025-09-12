@@ -24,6 +24,8 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
   - [Analisi aziende Unicorno](https://github.com/christopher-morello/analisi_aziende_unicorno.git)
   - [Analisi dei fulmini negli U.S.A.](https://github.com/christopher-morello/analisi-tempeste-USA.git)
   - [Analisi Waze](https://github.com/christopher-morello/analisi_waze.git)
+- SQL
+  - [Analisi demografica residenti in Italia](https://github.com/christopher-morello/demografia_italia_sql)
 - Tableau
   - [Analisi delle Anomalie di Temperatura Superficiale (L-OTI) Globale: 1880-2024](https://public.tableau.com/views/AnalisivariazionitemperatureGlobali1880-2024/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Cyclistic 2024](https://public.tableau.com/app/profile/christopher.morello/viz/Cyclistic2024_17557591780850/Dashboard1)
