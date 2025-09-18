@@ -27,7 +27,7 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
 - SQL
   - [Analisi demografica residenti in Italia](https://github.com/christopher-morello/demografia_italia_sql)
 - Tableau
-  - [Tassi di obesità stimati a livello globale per la fascia di età 5-19](https://public.tableau.com/views/Tassidiobesitstimatialivelloglobaleperlafasciadiet5-19anni/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Tassi di obesità stimati a livello globale per la fascia di età 5-19](https://public.tableau.com/views/Tassidiobesitstimatialivelloglobaleperlafasciadiet5-19anni/Dashboard1?:language=it-IT&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Analisi delle Anomalie di Temperatura Superficiale (L-OTI) Globale: 1880-2024](https://public.tableau.com/views/AnalisivariazionitemperatureGlobali1880-2024/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Cyclistic 2024](https://public.tableau.com/app/profile/christopher.morello/viz/Cyclistic2024_17557591780850/Dashboard1)
   - [Aziende Unicorno](https://public.tableau.com/views/AziendeUnicorno/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
