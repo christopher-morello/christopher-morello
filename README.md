@@ -55,8 +55,7 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
 | | Inferenza Statistica | | | |
 | | Analisi Statistica | | | |
 | | A/B Testing | | | |
-| | Test di ipotesi | | | |
-| | Modelli di regressioni | | | |
+| | Analisi di regressione | | | |
 
 
 ### Contatti
