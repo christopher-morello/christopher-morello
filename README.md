@@ -38,11 +38,7 @@ Questo è un archivio in cui condivido le mie competenze, i miei progetti e dove
 ### Certificati
 ---
 - [Google Data Analytics Professional](https://www.credly.com/badges/a5371234-0d04-4e76-8c20-3ad9ee975614)
-- Google Advanced Data Analytics:
-  - [Foundations of Data Science](https://coursera.org/share/a026a7b4eaadc77a21ed71423530a71e);
-  - [Data Science with Python](https://coursera.org/share/6a23ae557e7b8c50cf8079d615663183);
-  - [EDA with Python](https://coursera.org/share/f14ea7f68e2d8333019e1090f19a0cdb);
-  - [Statistics with Python](https://coursera.org/share/e63748a1b3b88925eb5da352f42e64e9);
+- [Google Advanced Data Analytics](https://coursera.org/share/6af7785c8c9d5ff6431fab8f4670a8e0)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/OJD8BP8GZ4QA?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Specializzazione Google Sheets](https://www.coursera.org/account/accomplishments/verify/T51W8MYCXDUG?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Google AI Essentials](https://www.coursera.org/account/accomplishments/verify/6RCOMKRY5PBV?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
